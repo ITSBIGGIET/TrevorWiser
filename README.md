@@ -1,3 +1,2 @@
 # TrevorWiser.com
-<img src="IMG_3125.JPG" alt="Beach">
-
+<img src="IMG_3125.JPeG" alt="Beach">
