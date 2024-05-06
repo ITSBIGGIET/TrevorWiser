@@ -1,11 +1,8 @@
 # Welcome To my Website
 <img src="62F8A663-79DB-41E9-8228-7B071BEEF2B5_1_105_c.jpeg" alt="Tennessee">
-<img src="IMG_3125.jpeg" alt="Who Knows">
-
-document.querySelector('.card').addEventListener('click', function() {
-  this.querySelector('.card-inner').classList.toggle('is-flipped');
-});
-
+<>
+<!DOCTYPE html>
+<html lang="en">
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -19,10 +16,13 @@ document.querySelector('.card').addEventListener('click', function() {
       <img src="IMG_3125.jpeg" alt="Who Knows">
     </div>
     <div class="card-back">
-      <p>This is a description of the image.</p>
+      <p>This image is amazing.</p>
     </div>
   </div>
 </div>
 <script src="scripts.js"></script>
 </body>
 </html>
+
+
+
